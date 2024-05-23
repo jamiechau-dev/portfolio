@@ -34,7 +34,7 @@ const HeroSection = () => {
                         ]}
                     />
                     
-                    <p className="beige text-base sm:text-lg  text-justify mb-6 first-line:lg:text-xl">
+                    <p className="text-white text-base sm:text-lg  text-justify mb-6 first-line:lg:text-xl">
                         I’m a Full Stack Developer based in Montreal, Canada, with a business administration background. I specialize in Next.js, React, and Ruby on Rails. My expertise are in both front-end and back-end development, focusing on creating robust, user-friendly applications. I am passionate about using technology to solve complex problems and always eager to tackle new challenges that contribute to team and organizational success.
                     </p>
 
