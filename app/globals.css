@@ -18,16 +18,27 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background: #141A31
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+.darkpurple {
+  color: #383158;
+}
+
+.lightpurple {
+  color: #5956B8;
+}
+
+.beige {
+  color: #CCBABD;
+}
+
+.teal {
+  color: #65A8B2;
 }
